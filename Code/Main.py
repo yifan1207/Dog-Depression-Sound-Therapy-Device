@@ -4,7 +4,7 @@ import soundfile as sf # for reading sound files
 import serial # for communication with Arduino
 import bluetooth # for communication with phone
 
-# Define constants
+
 SPEAKER_FREQ = 5 # frequency of the modified speaker in Hz
 ALPHA_FREQ = 10 # frequency of the alpha brain wave in Hz
 SOUND_DIR = "soundtracks/" # directory of the sound files
