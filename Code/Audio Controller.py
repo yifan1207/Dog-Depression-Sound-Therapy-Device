@@ -1,4 +1,4 @@
-# Import the libraries for working with sound and Arduino
+# Import the libraries for working with sound
 import sounddevice as sd
 import serial
 
