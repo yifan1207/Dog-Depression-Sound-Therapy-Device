@@ -2,7 +2,7 @@
 #include "DFRobotDFPlayerMini.h"
 
 // Use pins 2 and 3 to communicate with DFPlayer Mini
-static const uint8_t PIN_MP3_TX = 2; // Connects to module's RX 
+static const uint8_t PIN_MP3_TX = 2; // Connects to module's  RX
 static const uint8_t PIN_MP3_RX = 3; // Connects to module's TX 
 SoftwareSerial softwareSerial(PIN_MP3_RX, PIN_MP3_TX);
 
