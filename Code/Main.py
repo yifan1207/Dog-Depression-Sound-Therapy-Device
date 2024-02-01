@@ -5,8 +5,8 @@ import serial # for communication with Arduino
 import bluetooth # for communication with phone
 
 
-SPEAKER_FREQ = 5 # frequency of the modified speaker in Hz
-ALPHA_FREQ = 10 # frequency of the alpha brain wave in Hz
+SPEAKER_FREQ = 5 # frequency of the modified speaker
+ALPHA_FREQ = 10 # frequency of the alpha brain wave
 SOUND_DIR = "soundtracks/" # directory of the sound files
 SD_MODE = 0 # mode for playing sound from sd card
 BT_MODE = 1 # mode for playing sound from bluetooth
