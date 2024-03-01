@@ -1,4 +1,4 @@
-# Import sound libraries
+# Import sound libraries 
 import sounddevice as sd
 import serial
 
