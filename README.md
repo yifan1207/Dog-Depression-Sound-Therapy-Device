@@ -2,7 +2,7 @@
 
 <img width="388" alt="image" src="https://github.com/yifan1207/Dog-Depression-Sound-Therapy-Device/assets/117659507/5e81be69-a67a-47d4-a4b6-5ceb190d8f39">
 
-Alpha pup is a wearable, a necklace-like medical device with two main parts the dog bone-shaped modified speaker and controller and an adjustable collar to be put around the dog's neck. The bone-shaped body contains the modified speaker we made from a programable audio device, an amplified and tuned sound speaker, an Arduino nano as our microcontroller, and a Bluetooth device for connecting with users' phones.
+Alpha pup is a wearable, necklace-like medical device with two main parts the dog bone-shaped modified speaker and controller and an adjustable collar to be put around the dog's neck. The bone-shaped body contains the modified speaker we made from a programable audio device, an amplified and tuned sound speaker, an Arduino nano as our microcontroller, and a Bluetooth device for connecting with users' phones.
 
 <img width="654" alt="image" src="https://github.com/yifan1207/Dog-Depression-Sound-Therapy-Device/assets/117659507/f9492256-bd89-4b2b-bb17-127dc3302e28">
 
